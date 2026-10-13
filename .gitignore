@@ -10,8 +10,8 @@ crash.log
 crash.*.log
 
 # Terraform variable files (may contain sensitive values)
-*.tfvars
-*.tfvars.json
+# *.tfvars
+# *.tfvars.json
 
 # Saved Terraform plans
 *.tfplan
